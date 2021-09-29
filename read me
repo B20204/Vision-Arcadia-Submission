@@ -1,1 +1,14 @@
-Roll no
+This repo contains submission for vision arcadia from team NoobsLearning.
+
+Our takes on the model developed is kept in a pretty simple stage , for instance for the sign Lang Model we have not developed the whole module that takes the image of hand only etc
+the modules have some assumptions behind them like the input is a perfectly cropped out hand image etc , similarly the signLang model doesnot provide whole words as output , we have made
+a simple letter by letter model , but it can be implied that keeping this has stage one , the model can be extended to give out real time word outputs. our main focus as a team was to 
+implement and learn the basics out properly.
+
+
+Team NoobsLearning
+B20287 - Harshit Agarwar
+B20204 - Jayantakumar
+B20318 - Shaswat
+B20163 - Piyush
+B20013 - Khushi Ladha
