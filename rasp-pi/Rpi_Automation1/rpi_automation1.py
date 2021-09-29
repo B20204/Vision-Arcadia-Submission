@@ -21,6 +21,7 @@ def capture_image(k):
 
 def preprocessing(img):
     img = cv2.resize(img, (224, 224))
+    img = img/255
     img = img[np.newaxis, :, :, :]
     return img
 
